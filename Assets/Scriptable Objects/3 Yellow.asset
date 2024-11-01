@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfce3b49c046693469aa9155606a08b6, type: 3}
+  m_Name: 3 Yellow
+  m_EditorClassIdentifier: 
+  interactions:
+  - attractionForce: 0.81
+    minimumDistance: 14
+  - attractionForce: 0.14
+    minimumDistance: 10
+  - attractionForce: 0.26
+    minimumDistance: 15
+  - attractionForce: 0.34
+    minimumDistance: 16
+  - attractionForce: 0.91
+    minimumDistance: 10
+  - attractionForce: 0.34
+    minimumDistance: 16
+  - attractionForce: 0.96
+    minimumDistance: 19
